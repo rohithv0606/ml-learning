@@ -1,3 +1,4 @@
+#***********basic numpy operations***********
 import numpy as np
 #using numpy array
 a=np.array([1,2,3,4])
