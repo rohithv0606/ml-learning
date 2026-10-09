@@ -1,10 +1,16 @@
-My ML learning journey.
-heheheheheeeehehhe
+# ML Learning Journey
 
-Task 1: to learn numpy basics with the help of claude.
-checkpoint 1: completed numpy basics and a mini project using numpy within 2 days.
+Learning machine learning step by step, with projects pushed here.
 
-Task 2: to learn pandas using claude.
-checkpoint 2: completed pandas basics within 5 days.
+## Progress
 
-task 3: to learn matplotlib using the help of claude.
+- [x] NumPy basics + marks analyzer mini project
+- [x] Pandas basics
+- [ ] Matplotlib
+- [ ] Scikit-learn and first ML models
+
+## Folders
+
+- `numpy/` - NumPy lessons
+- `pandas/` - Pandas lessons
+- `projects/` - mini projects
